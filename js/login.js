@@ -23,7 +23,9 @@ function showLogin() {
 	signupForm.classList.add('d-none');
 	loginForm.classList.remove('d-none');
 }
-const BASE_URL = "https://ecommce-be.herokuapp.com/ecomm/api/v1"
+// const BASE_URL = "https://ecommce-be.herokuapp.com/ecomm/api/v1"
+
+const BASE_URL =  "https://ecommerce-api-pallab.herokuapp.com/";
 
 
 

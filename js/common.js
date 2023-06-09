@@ -1,7 +1,9 @@
 const logoutBtn = document.getElementById('logoutBtn');
 const userIntro = document.getElementById("userIntro");
 // const BASE_URL = 'http://13.235.87.215:4000';
-const BASE_URL = "https://ecommce-be.herokuapp.com/ecomm/api/v1"
+// const BASE_URL = "https://ecommce-be.herokuapp.com/ecomm/api/v1"
+const BASE_URL =  "https://ecommerce-api-pallab.herokuapp.com/";
+
 
 logoutBtn.addEventListener('click', logoutFn);
 
